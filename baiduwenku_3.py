@@ -2,6 +2,9 @@ __author__ = 'yumihuang'
 # project name:codelearn
 # time:2020-04-13
 
+
+#############selenium测试翻页代码demo############
+
 from selenium import webdriver
 import time
 from selenium.webdriver.chrome.options import Options

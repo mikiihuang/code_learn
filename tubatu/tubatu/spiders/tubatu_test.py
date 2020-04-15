@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+#########使用Scrapy的第一个demo 爬取xiaoguotu.to8to.com保存对应的数据，大概了解一下Scrapy的写法吧#########
+
+
 import scrapy
 import json
 import re

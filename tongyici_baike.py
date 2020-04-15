@@ -1,6 +1,10 @@
 __author__ = 'yumihuang'
 # project name:codelearn
 # time:2020-03-30
+
+#########网上down的百度百科代码，没调，应该不通######
+
+
 import urllib.request as ur, re
 import requests
 

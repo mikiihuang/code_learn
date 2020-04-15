@@ -1,6 +1,12 @@
 __author__ = 'yumihuang'
 # project name:codelearn
 # time:2020-04-11
+
+
+
+########豆瓣电影top250 最原始的爬取方式###########
+
+
 import requests
 from bs4 import BeautifulSoup
 headers = {

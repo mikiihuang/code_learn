@@ -2,6 +2,17 @@ __author__ = 'yumihuang'
 # project name:codelearn
 # time:2020-04-02
 #
+
+
+
+
+
+
+###############本代码是瞎写时候的测试代码###############
+
+
+
+
 # import numpy as np
 # import math
 # import matplotlib.pyplot as plt

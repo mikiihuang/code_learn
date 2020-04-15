@@ -6,6 +6,8 @@ import turtle as T
 import random
 import time
 
+#######本代码是飘落的樱花###########
+
 # 画樱花的躯干(60,t)
 def Tree(branch, t):
     time.sleep(0.0005)

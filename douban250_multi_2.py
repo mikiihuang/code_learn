@@ -1,6 +1,11 @@
 __author__ = 'yumihuang'
 # project name:codelearn
 # time:2020-04-11
+
+##########豆瓣电影top250 多进程爬取##########
+
+
+
 import multiprocessing
 from multiprocessing import Pool
 import requests
