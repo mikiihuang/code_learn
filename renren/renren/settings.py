@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for tubatu project
+# Scrapy settings for renren project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,17 +9,17 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'tubatu'
+BOT_NAME = 'renren'
 
-SPIDER_MODULES = ['tubatu.spiders']
-NEWSPIDER_MODULE = 'tubatu.spiders'
+SPIDER_MODULES = ['renren.spiders']
+NEWSPIDER_MODULE = 'renren.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'tubatu (+http://www.yourdomain.com)'
+#USER_AGENT = 'renren (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -46,16 +46,14 @@ ROBOTSTXT_OBEY = False
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-SPIDER_MIDDLEWARES = {
-   # 'tubatu.middlewares.TubatuSpiderMiddleware': 543,
-    'tubatu.middlewares.MyMiddleware': 300,
-    'tubatu.middlewares.MyProxy': 301,
-}
+#SPIDER_MIDDLEWARES = {
+#    'renren.middlewares.RenrenSpiderMiddleware': 543,
+#}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'tubatu.middlewares.TubatuDownloaderMiddleware': 543,
+#    'renren.middlewares.RenrenDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -66,10 +64,9 @@ SPIDER_MIDDLEWARES = {
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'tubatu.pipelines.TubatuPipeline': 300,
-   #  'tubatu.pipelines.TubatuImagePipeline': 300,
-}
+#ITEM_PIPELINES = {
+#    'renren.pipelines.RenrenPipeline': 300,
+#}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -91,4 +88,3 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-IMAGES_STORE='images'
