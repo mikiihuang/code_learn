@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e31d308-9218-4190-9540-bd7bb600a8be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/politicNews/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logpic.py" beforeDir="false" afterPath="$PROJECT_DIR$/logpic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tubatu/tubatu/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/tubatu/tubatu/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tubatu/tubatu/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tubatu/tubatu/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +14,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tubatu/tubatu/middlewares.py">
+        <entry file="file://$PROJECT_DIR$/politicNews/politicNews/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="120" column="72" lean-forward="true" selection-start-line="120" selection-start-column="72" selection-end-line="120" selection-end-column="72" />
+            <state relative-caret-position="150">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/politicNews/politicNews/spiders/news_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding>
-                <element signature="e#170#196#0" expanded="true" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/politicNews/news.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="714" selection-start-column="714" selection-end-column="714" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/politicNews/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/politicNews/politicNews/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <element signature="e#194#207#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/politicNews/politicNews/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -60,6 +102,10 @@
       <find>.renren.com/SysHome</find>
       <find>YouyuanSpiderSpider</find>
       <find>ITEM</find>
+      <find>pip</find>
+      <find>疫情未过</find>
+      <find>title</find>
+      <find>AUTOTHROTTLE_</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,12 +147,16 @@
         <option value="$PROJECT_DIR$/youhuan/youhuan/settings.py" />
         <option value="$PROJECT_DIR$/youhuan/youhuan/main.py" />
         <option value="$PROJECT_DIR$/youhuan/youhuan/spiders/youyuan_spider.py" />
+        <option value="$PROJECT_DIR$/politicNews/politicNews/items.py" />
+        <option value="$PROJECT_DIR$/politicNews/politicNews/pipelines.py" />
+        <option value="$PROJECT_DIR$/politicNews/politicNews/settings.py" />
+        <option value="$PROJECT_DIR$/politicNews/politicNews/spiders/news_spider.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-21" />
-    <option name="y" value="55" />
+    <option name="x" value="91" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
   </component>
@@ -124,6 +174,24 @@
               <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="codelearn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codelearn" type="462c0819:PsiDirectoryNode" />
+              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codelearn" type="462c0819:PsiDirectoryNode" />
+              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
+              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codelearn" type="462c0819:PsiDirectoryNode" />
+              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
+              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,6 +204,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/politicNews/politicNews/spiders" />
       <recent name="$PROJECT_DIR$/tencent/tencent/spiders" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -282,7 +351,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-21" y="55" width="1440" height="804" extended-state="0" />
+    <frame x="91" y="23" width="1440" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18534179" />
@@ -290,7 +359,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3272472" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3483146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3483146" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -305,24 +374,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/3c111638af7b91ab9a3173b9796058b9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/3bc589a532154b4876f4fb8e0f184436.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/4ddec0a7c68a065377d7906d3203ca02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/4f739314e733c9cafd468a8bd99c6a1e.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/5b0c60fd27004d677ecf70a90ae650e3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/5d019dd1e8992a5434f1010995ba0c6d.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/6b1ca82ea5c206104a6961472c80100f.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -617,11 +668,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tubatu/tubatu/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="120" column="72" lean-forward="true" selection-start-line="120" selection-start-column="72" selection-end-line="120" selection-end-column="72" />
+        <state relative-caret-position="2229">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
           <folding>
             <element signature="e#170#196#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#194#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/politicNews/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/spiders/news_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/politicNews/news.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="714" selection-start-column="714" selection-end-column="714" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
