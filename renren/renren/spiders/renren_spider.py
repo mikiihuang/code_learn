@@ -62,10 +62,7 @@ class RenrenSpiderSpider(scrapy.Spider):
         get_rkey = requests.get("http://login.renren.com/ajax/getEncryptKey",headers=r_keyheader).text
         r_key_value = json.loads(get_rkey)['rkey']
         print(r_key_value)
-
-        captcha = response.xpath('//label[@class="codetip"]').extract()
-        if len(captcha)==0:
-            data = {
+        data = {
             "email": "18810400465",
 
             'origURL': 'http://www.renren.com/home',
@@ -76,7 +73,10 @@ class RenrenSpiderSpider(scrapy.Spider):
             'password': '96a837fc9a233c64b19eac4fd9243be5d00afe86c7b7644ff87515d60e5b5729',
             'rkey': r_key_value,
             'f': 'http%3A%2F%2Fwww.renren.com%2F567835129',
-                 }
+        }
+        captcha = response.xpath('//label[@class="codetip"]').extract()
+        if len(captcha)==0:
+            data_load = data
         else:
             print("有验证码")
             url = "http://icode.renren.com/getcode.do?t=web_login&rnd=Math.random()"
@@ -87,19 +87,9 @@ class RenrenSpiderSpider(scrapy.Spider):
             print("此次登录有验证码，请查看本地captcha图片输入验证码:")
 
             captcha_value = input()
-            data = {
-                "email": "18810400465",
-                "icode": captcha_value,
-                'origURL': 'http://www.renren.com/home',
-                'domain': 'renren.com',
-                'key_id': '1',
-                'captcha_type': 'web_login',
-                # 这个加密之后的密码直接复制即可
-                'password': '96a837fc9a233c64b19eac4fd9243be5d00afe86c7b7644ff87515d60e5b5729',
-                'rkey': r_key_value,
-                'f': 'http%3A%2F%2Fwww.renren.com%2F969835232',
-            }
-        return [FormRequest(url="http://www.renren.com/ajaxLogin/login?1=1&uniqueTimestamp=202035910728",headers=headers,method='POST', meta={"cookiejar": response.meta["cookiejar"]}, formdata=data,callback=self.after_login, dont_filter=True)]
+            data_load = data.update({'icode':captcha_value})
+
+        return [FormRequest(url="http://www.renren.com/ajaxLogin/login?1=1&uniqueTimestamp=202035910728",headers=headers,method='POST', meta={"cookiejar": response.meta["cookiejar"]}, formdata=data_load,callback=self.after_login, dont_filter=True)]
 
     def after_login(self, resonse):
 

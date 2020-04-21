@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e31d308-9218-4190-9540-bd7bb600a8be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/politicNews/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glidedsk_test/crawler_basic_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glidedsk_test/get_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glidedsk_test/ip_shield_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logpic.py" beforeDir="false" afterPath="$PROJECT_DIR$/logpic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren/captcha" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren/captcha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren/renren/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/renren/renren/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren/renren/spiders/renren_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/renren/renren/spiders/renren_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,59 +21,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/politicNews/politicNews/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/politicNews/politicNews/spiders/news_spider.py">
+        <entry file="file://$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="246">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <element signature="e#24#37#0" expanded="true" />
+                <element signature="e#69#84#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/politicNews/news.json">
+        <entry file="file://$PROJECT_DIR$/glidedsk_test/get_ip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="714" selection-start-column="714" selection-end-column="714" />
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="34" />
+              <folding>
+                <element signature="e#68#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/glidedsk_test/ip_shield_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="11" column="623" selection-start-line="11" selection-start-column="623" selection-end-line="11" selection-end-column="623" />
+              <folding>
+                <element signature="e#69#84#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/politicNews/__init__.py">
+        <entry file="file://$PROJECT_DIR$/glidedsk_test/html/second.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/politicNews/politicNews/pipelines.py">
+        <entry file="file://$PROJECT_DIR$/logpic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="29" />
-              <folding>
-                <element signature="e#194#207#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="384">
+              <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/politicNews/politicNews/settings.py">
+        <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/requests/sessions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+            <state relative-caret-position="128">
+              <caret line="623" column="34" selection-start-line="623" selection-start-column="27" selection-end-line="623" selection-end-column="34" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glidedsk_test/代理ip.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
@@ -106,6 +129,10 @@
       <find>疫情未过</find>
       <find>title</find>
       <find>AUTOTHROTTLE_</find>
+      <find>COO</find>
+      <find>proxies</find>
+      <find>res</find>
+      <find>111</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,8 +167,6 @@
         <option value="$PROJECT_DIR$/zhihu/zhihu/items.py" />
         <option value="$PROJECT_DIR$/zhihu/zhihu/settings.py" />
         <option value="$PROJECT_DIR$/zhihu/zhihu/spiders/zhihu_spider.py" />
-        <option value="$PROJECT_DIR$/logpic.py" />
-        <option value="$PROJECT_DIR$/renren/renren/spiders/renren_spider.py" />
         <option value="$PROJECT_DIR$/youhuan/youhuan/items.py" />
         <option value="$PROJECT_DIR$/youhuan/youhuan/pipelines.py" />
         <option value="$PROJECT_DIR$/youhuan/youhuan/settings.py" />
@@ -151,12 +176,19 @@
         <option value="$PROJECT_DIR$/politicNews/politicNews/pipelines.py" />
         <option value="$PROJECT_DIR$/politicNews/politicNews/settings.py" />
         <option value="$PROJECT_DIR$/politicNews/politicNews/spiders/news_spider.py" />
+        <option value="$PROJECT_DIR$/renren/renren/settings.py" />
+        <option value="$PROJECT_DIR$/renren/renren/spiders/renren_spider.py" />
+        <option value="$PROJECT_DIR$/glidedsk_test/crawler_basic_1.py" />
+        <option value="$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py" />
+        <option value="$PROJECT_DIR$/glidedsk_test/get_ip.py" />
+        <option value="$PROJECT_DIR$/logpic.py" />
+        <option value="$PROJECT_DIR$/glidedsk_test/ip_shield_1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="91" />
-    <option name="y" value="23" />
+    <option name="x" value="14" />
+    <option name="y" value="72" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
   </component>
@@ -177,20 +209,13 @@
             <path>
               <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="codelearn" type="462c0819:PsiDirectoryNode" />
-              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
+              <item name="glidedsk_test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="codelearn" type="462c0819:PsiDirectoryNode" />
-              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
-              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codelearn" type="462c0819:PsiDirectoryNode" />
-              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
-              <item name="politicNews" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="glidedsk_test" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,6 +228,9 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/glidedsk_test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/politicNews/politicNews/spiders" />
       <recent name="$PROJECT_DIR$/tencent/tencent/spiders" />
@@ -221,7 +249,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.ip_shield_1">
+    <configuration name="get_ip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codelearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/glidedsk_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/glidedsk_test/get_ip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ip_shield_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codelearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/glidedsk_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/glidedsk_test/ip_shield_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="logpic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,97 +313,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest for ip_shield_1.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/youhuan/youhuan" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/glidedsk_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/youhuan/youhuan/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ip_shield_1.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in get_ip.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tubatu/tubatu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/glidedsk_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tubatu/tubatu/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tongyici_baike" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codelearn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tongyici_baike.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tubatu_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codelearn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tubatu/tubatu/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tubatu/tubatu/spiders/tubatu_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/glidedsk_test/get_ip.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.ip_shield_1" />
+        <item itemvalue="Python tests.pytest for ip_shield_1.test" />
         <item itemvalue="Python.logpic" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.tongyici_baike" />
-        <item itemvalue="Python.tubatu_test" />
+        <item itemvalue="Python.get_ip" />
+        <item itemvalue="Python tests.pytest in get_ip.py" />
       </list>
     </recent_temporary>
   </component>
@@ -350,80 +366,55 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_get_ip_py - 2020.04.20 at 12h 16m 07s.xml">
+      <configuration name="pytest in get_ip.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_get_ip_py - 2020.04.20 at 12h 19m 58s.xml">
+      <configuration name="pytest in get_ip.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_get_ip_py - 2020.04.20 at 12h 26m 33s.xml">
+      <configuration name="pytest in get_ip.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_get_ip_py - 2020.04.20 at 12h 26m 50s.xml">
+      <configuration name="pytest in get_ip.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_get_ip_py - 2020.04.20 at 13h 43m 56s.xml">
+      <configuration name="pytest in get_ip.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_ip_shield_1_test - 2020.04.21 at 12h 42m 02s.xml">
+      <configuration name="pytest for ip_shield_1.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_ip_shield_1_test - 2020.04.21 at 16h 42m 52s.xml">
+      <configuration name="pytest for ip_shield_1.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_ip_shield_1_test - 2020.04.21 at 17h 38m 48s.xml">
+      <configuration name="pytest for ip_shield_1.test" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="23" width="1440" height="804" extended-state="0" />
-    <editor active="true" />
+    <frame x="14" y="72" width="1440" height="804" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18534179" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18534179" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3272472" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3483146" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3483146" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286517" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/6b1ca82ea5c206104a6961472c80100f.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/7bdab5da5e94e6bb61f3058d22cb27bf.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/8cbb3ec6deb87482301b5831b1a9a629.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/8ee9243c2d208d4f812d6a40d5ab41fe.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/10e0675fe778eae53efc4cb98976c509.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/21f1a4783ddf38c020fdd88965344d17.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/56fb9666d1238d1111f69b13d3fe85eb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/58c49b666c694805122f5d6ec691b5a3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/81a1667c4366a8e7b85ed222ebcb48b8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/images/86fb2ef2a21834bf78368ac21b55a358.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="103" column="6" lean-forward="true" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="18" />
-          <folding>
-            <element signature="e#170#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tencent/tencent/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -578,33 +569,10 @@
     <entry file="file://$PROJECT_DIR$/renren/captcha">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/logpic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="138" column="35" selection-start-line="138" selection-start-column="35" selection-end-line="138" selection-end-column="35" />
-          <folding>
-            <element signature="e#1873#1888#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zhihu/zhihu/spiders/zhihu_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren/captcha.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren/renren/spiders/renren_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="29" column="367" selection-start-line="29" selection-start-column="367" selection-end-line="29" selection-end-column="367" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
@@ -676,16 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#194#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/politicNews/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -693,6 +651,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/politicNews/news.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="54" column="294" selection-start-line="54" selection-start-column="294" selection-end-line="54" selection-end-column="294" />
         </state>
       </provider>
     </entry>
@@ -706,17 +678,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/news.json">
+    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="714" selection-start-column="714" selection-end-column="714" />
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#194#207#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/items.py">
+    <entry file="file://$PROJECT_DIR$/renren/renren/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren/captcha.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren/renren/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="133">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren/renren/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren/renren/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1206" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/crawler_basic_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#68#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/代理ip.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renren/renren/spiders/renren_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="29" column="508" selection-start-line="29" selection-start-column="508" selection-end-line="29" selection-end-column="508" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logpic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="623" column="34" selection-start-line="623" selection-start-column="27" selection-end-line="623" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#69#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/html/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/html/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="440" column="13" lean-forward="true" selection-start-line="440" selection-start-column="13" selection-end-line="440" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/html/second.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/get_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="e#68#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/ip_shield_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="11" column="623" selection-start-line="11" selection-start-column="623" selection-end-line="11" selection-end-column="623" />
+          <folding>
+            <element signature="e#69#84#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
