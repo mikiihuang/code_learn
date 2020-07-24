@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e31d308-9218-4190-9540-bd7bb600a8be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/glidedsk_test/crawler_basic_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glidedsk_test/get_ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glidedsk_test/ip_shield_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/crawl_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/getCaptcha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/log_part.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud4copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud5_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileCloud/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_dangrui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest_learn/testmodel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logpic.py" beforeDir="false" afterPath="$PROJECT_DIR$/logpic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren/captcha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren/captcha.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren/renren/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/renren/renren/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren/renren/spiders/renren_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/renren/renren/spiders/renren_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,74 +27,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="-241">
+              <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
               <folding>
-                <element signature="e#69#84#0" expanded="true" />
+                <element signature="e#85#94#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glidedsk_test/get_ip.py">
+        <entry file="file://$PROJECT_DIR$/mobileCloud/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="182">
+              <caret line="66" column="36" lean-forward="true" selection-start-line="59" selection-end-line="66" selection-end-column="36" />
               <folding>
                 <element signature="e#68#83#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/glidedsk_test/ip_shield_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="11" column="623" selection-start-line="11" selection-start-column="623" selection-end-line="11" selection-end-column="623" />
-              <folding>
-                <element signature="e#69#84#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glidedsk_test/html/second.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logpic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/requests/sessions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="623" column="34" selection-start-line="623" selection-start-column="27" selection-end-line="623" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/glidedsk_test/代理ip.csv">
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
@@ -103,36 +62,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>grid_view</find>
-      <find>ROBOTS</find>
-      <find>ITE</find>
-      <find>USER</find>
-      <find>Mid</find>
-      <find>f2f396bbaf20687283ebda79271768c1.jpg</find>
-      <find>20160723111408-3887c775.jpg</find>
-      <find>IMA</find>
-      <find>pic_url</find>
-      <find>TubatuPipelin</find>
-      <find>image_urls</find>
-      <find>MIDD</find>
-      <find>TME-腾讯音乐曲库开发中心运营开发工程师</find>
-      <find>腾讯云企业业务研发工程师</find>
-      <find>微信支付商户管理平台web前端高级开</find>
-      <find>36321</find>
-      <find>LO</find>
-      <find>OBEY</find>
-      <find>json</find>
-      <find>.renren.com/SysHome</find>
-      <find>YouyuanSpiderSpider</find>
-      <find>ITEM</find>
-      <find>pip</find>
-      <find>疫情未过</find>
-      <find>title</find>
-      <find>AUTOTHROTTLE_</find>
-      <find>COO</find>
-      <find>proxies</find>
-      <find>res</find>
-      <find>111</find>
+      <find>https://ecloud.10086.cn/home/product-introduction/bs</find>
+      <find>/usercenter/dashboard</find>
+      <find>base</find>
+      <find>www.zjcloud.com/</find>
+      <find>product-introduction/vm</find>
+      <find>support/health</find>
+      <find>home/product-introduction/ironic</find>
+      <find>solution/medical/area</find>
+      <find>solution/medical/database</find>
+      <find>product-introduction/cloudDesk</find>
+      <find>solution/edu/library</find>
+      <find>code=9207455&amp;fromtype=morelist&amp;appid=2008</find>
+      <find>fromtype=morelist&amp;appid=1600</find>
+      <find>9207548&amp;fromtype=morelist&amp;appid=2452</find>
+      <find>1026?parentid=1032&amp;level=2</find>
+      <find>about/privacy</find>
+      <find>9207328</find>
+      <find>404</find>
+      <find>javascript</find>
+      <find>product-introduction/webgood</find>
+      <find>product-introduction/ddos</find>
+      <find>product-introduction/transcode</find>
+      <find>/home/about/contact</find>
+      <find>common/safety</find>
+      <find>duct-introduction/transco</find>
+      <find>86.cn/home/solution/common/devops</find>
+      <find>cn/home/</find>
+      <find>op-console-global/dashboard</find>
+      <find>MyEncoder</find>
+      <find>op-help-center</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -141,24 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/QRcode.py" />
-        <option value="$PROJECT_DIR$/pic_download.py" />
-        <option value="$PROJECT_DIR$/douban250.py" />
-        <option value="$PROJECT_DIR$/douban250_multi.py" />
-        <option value="$PROJECT_DIR$/../spider/douban250_multi.py" />
-        <option value="$PROJECT_DIR$/tubatu/tubatu/main.py" />
-        <option value="$PROJECT_DIR$/tubatu/tubatu/middlewares.py" />
-        <option value="$PROJECT_DIR$/tubatu/tubatu/tu8tu.txt" />
-        <option value="$PROJECT_DIR$/tubatu/tubatu/pipelines.py" />
-        <option value="$PROJECT_DIR$/tencent/tencent/middlewares.py" />
-        <option value="$PROJECT_DIR$/tencent/tencent/settings.py" />
-        <option value="$PROJECT_DIR$/tencent/tencent/items.py" />
-        <option value="$PROJECT_DIR$/tencent/tencent/pipelines.py" />
-        <option value="$PROJECT_DIR$/tencent/tencent/spiders/hireInfo.csv" />
-        <option value="$PROJECT_DIR$/sakura.py" />
-        <option value="$PROJECT_DIR$/baiduwenku_3.py" />
-        <option value="$PROJECT_DIR$/douban250_1.py" />
-        <option value="$PROJECT_DIR$/douban250_multi_2.py" />
         <option value="$PROJECT_DIR$/tongyici_baike.py" />
         <option value="$PROJECT_DIR$/tubatu/tubatu/spiders/tubatu_test.py" />
         <option value="$PROJECT_DIR$/tencent/tencent/spiders/tencent_hire.py" />
@@ -181,14 +122,41 @@
         <option value="$PROJECT_DIR$/glidedsk_test/crawler_basic_1.py" />
         <option value="$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py" />
         <option value="$PROJECT_DIR$/glidedsk_test/get_ip.py" />
-        <option value="$PROJECT_DIR$/logpic.py" />
         <option value="$PROJECT_DIR$/glidedsk_test/ip_shield_1.py" />
+        <option value="$PROJECT_DIR$/logpic.py" />
+        <option value="$PROJECT_DIR$/tablel" />
+        <option value="$PROJECT_DIR$/time_dangrui.py" />
+        <option value="$PROJECT_DIR$/testmodel.py" />
+        <option value="$PROJECT_DIR$/unittest_learn/testmodel.py" />
+        <option value="$PROJECT_DIR$/mobileCloud.py" />
+        <option value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/136c5b118ce7acc14fd5ef623793e0e6/File/CmssEcloudLibrary.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/getCaptcha.py" />
+        <option value="$PROJECT_DIR$/log.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/crawl_log.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/mobileCloud.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/mobileCloud2.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/xh_url.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/mobileCloud5_copy.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/mobileCloud3.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/logg.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/log_new.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/part.json" />
+        <option value="$PROJECT_DIR$/mobileCloud/final.json" />
+        <option value="$PROJECT_DIR$/mobileCloud/mobileCloud4copy.py" />
+        <option value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/41f941cc68cab574399066c57f62efc2/OpenData/mobileCloud4.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/mobileCloud4.py" />
+        <option value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/a32ec4f638ea44a42ee0edfd46ae37e9/OpenData/mobileCloud4.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/3.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/1.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/2.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/test.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="72" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="74" />
+    <option name="y" value="33" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
   </component>
@@ -217,6 +185,11 @@
               <item name="glidedsk_test" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codelearn" type="462c0819:PsiDirectoryNode" />
+              <item name="mobileCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -228,13 +201,17 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/glidedsk_test" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mobileCloud" />
+      <recent name="$PROJECT_DIR$/unittest_learn" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/politicNews/politicNews/spiders" />
       <recent name="$PROJECT_DIR$/tencent/tencent/spiders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mobileCloud" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/glidedsk_test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,8 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ip_shield_1">
-    <configuration name="get_ip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mobileCloud4">
+    <configuration name="mobileCloud4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/glidedsk_test" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/41f941cc68cab574399066c57f62efc2/OpenData" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/glidedsk_test/get_ip.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/41f941cc68cab574399066c57f62efc2/OpenData/mobileCloud4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ip_shield_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mobileCloud4 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +256,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/glidedsk_test" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/a32ec4f638ea44a42ee0edfd46ae37e9/OpenData" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/glidedsk_test/ip_shield_1.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/a32ec4f638ea44a42ee0edfd46ae37e9/OpenData/mobileCloud4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logpic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mobileCloud4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mobileCloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logpic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,43 +290,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for ip_shield_1.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="mobileCloud4copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/glidedsk_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mobileCloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ip_shield_1.test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobileCloud/mobileCloud4copy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in get_ip.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/glidedsk_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mobileCloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/glidedsk_test/get_ip.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobileCloud/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ip_shield_1" />
-        <item itemvalue="Python tests.pytest for ip_shield_1.test" />
-        <item itemvalue="Python.logpic" />
-        <item itemvalue="Python.get_ip" />
-        <item itemvalue="Python tests.pytest in get_ip.py" />
+        <item itemvalue="Python.mobileCloud4" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.mobileCloud4 (2)" />
+        <item itemvalue="Python.mobileCloud4 (1)" />
+        <item itemvalue="Python.mobileCloud4copy" />
       </list>
     </recent_temporary>
   </component>
@@ -391,309 +380,88 @@
     <history-entry file="pytest_for_ip_shield_1_test - 2020.04.21 at 17h 38m 48s.xml">
       <configuration name="pytest for ip_shield_1.test" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_testmodel_py - 2020.07.08 at 14h 13m 01s.xml">
+      <configuration name="pytest in testmodel.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="72" width="1440" height="804" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="804" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18534179" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21353066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3272472" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3483146" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13483146" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25702247" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36235955" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286517" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35674158" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21353066" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13483146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25702247" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36235955" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35674158" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286517" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="crawled_queue" language="Python" />
+        <watch expression="crawl_queue" language="Python" />
+        <watch expression="url" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>crawled_queue</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>crawl_queue</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>url</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>'https://cloud-a.cmecloud.cn/product/product-intro.html?name=cas'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/hireInfo.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pic_download">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sakura.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="e#69#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250_multi_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban250_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#68#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DouBanTOP250.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DouBanTOP250_multi.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baiduwenku_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="e#69#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tongyici_baike.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/spiders/tencent_hire.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tencent/tencent/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="17" lean-forward="true" selection-start-line="8" selection-end-line="17" />
-          <folding>
-            <element signature="e#194#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/TencentSpider.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1721">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-          <folding>
-            <element signature="e#884#922#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren/captcha">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zhihu/zhihu/spiders/zhihu_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/spiders/tubatu_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-          <folding>
-            <element signature="e#108#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youhuan/youhuan/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/scrapy/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youhuan/youhuan/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youhuan/youhuan/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="68" column="1" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="68" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youhuan/youhuan/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youhuan/youhuan/spiders/youyuan_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tubatu/tubatu/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2229">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
-          <folding>
-            <element signature="e#170#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/news.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2580">
-          <caret line="54" column="294" selection-start-line="54" selection-start-column="294" selection-end-line="54" selection-end-column="294" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/spiders/news_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/politicNews/politicNews/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#194#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren/renren/items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren/captcha.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/renren/renren/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -723,16 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/glidedsk_test/代理ip.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/renren/renren/spiders/renren_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -743,37 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logpic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="145" column="21" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/requests/sessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="623" column="34" selection-start-line="623" selection-start-column="27" selection-end-line="623" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#69#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glidedsk_test/html/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/html/2.html" />
     <entry file="file://$PROJECT_DIR$/glidedsk_test/html/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1083">
@@ -781,13 +509,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/glidedsk_test/html/second.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/crawler_basic_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#69#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/glidedsk_test/get_ip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="1110">
+          <caret line="79" selection-end-line="96" selection-end-column="23" />
           <folding>
             <element signature="e#68#83#0" expanded="true" />
           </folding>
@@ -796,10 +531,290 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/glidedsk_test/ip_shield_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="11" column="623" selection-start-line="11" selection-start-column="623" selection-end-line="11" selection-end-column="623" />
+        <state relative-caret-position="1020">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
             <element signature="e#69#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sakura.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#69#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/html/second.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logpic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="147" column="13" selection-start-line="147" selection-start-column="13" selection-end-line="147" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8925">
+          <caret line="623" column="34" selection-start-line="623" selection-start-column="27" selection-end-line="623" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/fuzzywuzzy/fuzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpch-benchmark-olap-20200619112632-天翼.log" />
+    <entry file="file://$PROJECT_DIR$/tpch-benchmark-olap-20200619105615-华为.log" />
+    <entry file="file://$PROJECT_DIR$/tpch-benchmark-olap-20200619182519-腾讯.log" />
+    <entry file="file://$PROJECT_DIR$/tablel" />
+    <entry file="file://$PROJECT_DIR$/time_dangrui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding>
+            <element signature="e#68#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_learn/testmodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glidedsk_test/代理ip.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/OpenSSL/SSL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1714" selection-start-line="1714" selection-end-line="1714" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/136c5b118ce7acc14fd5ef623793e0e6/File/CmssEcloudLibrary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <element signature="e#49#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="348" column="8" selection-start-line="348" selection-start-column="8" selection-end-line="348" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="1422" selection-start-line="1422" selection-end-line="1422" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="70" column="62" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="62" />
+          <folding>
+            <element signature="e#68#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/xh_url.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="254" column="52" selection-start-line="254" selection-start-column="29" selection-end-line="254" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#68#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/logg.txt" />
+    <entry file="file://$PROJECT_DIR$/mobileCloud/log_part.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4185">
+          <caret line="279" column="59" selection-start-line="279" selection-start-column="56" selection-end-line="279" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/part.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/final.txt" />
+    <entry file="file://$PROJECT_DIR$/mobileCloud/getCaptcha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/crawl_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1193">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <element signature="e#94#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/a32ec4f638ea44a42ee0edfd46ae37e9/OpenData/mobileCloud4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/41f941cc68cab574399066c57f62efc2/OpenData/mobileCloud4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="106" column="29" lean-forward="true" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
+          <folding>
+            <element signature="e#95#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/final.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/dataAll.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="2361" column="54" selection-start-line="2361" selection-start-column="35" selection-end-line="2361" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="405" lean-forward="true" selection-start-line="405" selection-end-line="405" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/interruptData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="10" column="1452" lean-forward="true" selection-start-line="10" selection-start-column="1452" selection-end-line="10" selection-end-column="1461" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="10" column="1460" lean-forward="true" selection-start-line="10" selection-start-column="1460" selection-end-line="10" selection-end-column="1460" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/urllib3/util/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud4copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="172" column="22" selection-start-line="172" selection-start-column="22" selection-end-line="172" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud5_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#68#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="66" column="36" lean-forward="true" selection-start-line="59" selection-end-line="66" selection-end-column="36" />
+          <folding>
+            <element signature="e#68#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
+          <folding>
+            <element signature="e#85#94#0" expanded="true" />
           </folding>
         </state>
       </provider>
