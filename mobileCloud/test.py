@@ -6,7 +6,7 @@ import random
 
 user_agent_list = ["Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36",
                     "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
-                    "Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/61.0",
+
                     "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36",
                     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36",
                     "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36",
@@ -19,7 +19,7 @@ user_agent_list = ["Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHT
 headers = {
 
     "User-Agent": random.choice(user_agent_list),
-    "Cookie":"JSESSIONID=A185EBFEEDF5C6FC15903488A4BC7B8C; BIGipServerpool_vmportalssl_8443=!rUK8fnz+g7G46pXTYvoIeOVXnuYeKxsVkq7G4tjjTG1rUgG4I0rgtoFjxXa9H7e8IFSU30PeTvkIDZM=; BIGipServerpool_vmportal_3333=!CjQ4qxgGqVs0uL7TYvoIeOVXnuYeK28CPGaxFDdnik2MabcBOQ1ua1MbTm8QNqKGvP6Y++qJ6DaG; BIGipServerpool_vmconsoleonest_8443=!eMvFNWni8+aS4vDTYvoIeOVXnuYeK790VKPBNAFD7VowkxU7cNSs+Y0/yPDoCNiweAYs1X1bingAeTE=; BIGipServerpool_vmportalsso_8443=!R4DbeCx68UtSIjXTYvoIeOVXnuYeK4XTYxOKIWTiQbUiBNHsoN1PJM893fgZWimtqwNhLchzQcDqxQ==; BIGipServerpool_vmapigateway=!m2TfgBhSOTN+QFLTYvoIeOVXnuYeK5DptzDFw9OA1iYNIY2fnsXdpja/ETdNeMQ/cj0N7kWmjMGv1Og=; BIGipServerpool_vmconsolenj_8443=!7neGRoszrZDV9zLTYvoIeOVXnuYeK+AKxg2xzBJVn+A7b99LwaLOqb5Xb0NZY6v2rmx0UsrreUsN37E=; BIGipServerpool_piwik_8001=!sasBkMFMFkMJ8gjTYvoIeOVXnuYeK6ciRz7UHHdx/GM0yL79P6Rq+7Su904sWgaioH/Gcc5p9u+vGw==; _gscu_233472779=95309920yykgtc60; _gscbrs_233472779=1; _pk_ses.1.663d=*; BIGipServerpool_op-msgqueue-static_5009=!QYYX0smRETBQhYvTYvoIeOVXnuYeK+ht30+5ZKAmIIEeDxhx1tgFgzolxK5YKoSr2i+vKkgaFf0jHzU=; BIGipServerpool_vipconsole_static_5009=!ebNfwYWjYzOoGIrTYvoIeOVXnuYeK866qJ1csVV4249klbxnS/sb5nTYbuuEN3+AoDaYxubkf1W8j4E=; BIGipServerpools_op_infocenter_static_5009=!iklcWa86xjCvlTrTYvoIeOVXnuYeK2GWLBAv4HuQ48XWpXhgWU/XzO23y0jnfqBOFfLRspp8f8cjf/E=; read=null; WT_FPC=id=2f6a775c86742392fb51595311349982:lv=1595317859909:ss=1595317859909; BIGipServerpool_vmconsolenj_3005=!OuM140HjeAKIVF7TYvoIeOVXnuYeK7L7IqsFhQC7d7UvH2Jqq1AtMATXFW0wU+rQ451EItnsD1bKrA==; JSESSIONID=AD2285371055D88A5597CF3EF6D8923C; ipLoc-djd=7887a36c-85e9-4d74-a499-524e94ea448b; _pk_id.1.663d=a284326ba2c4e88a.1595309920.1.1595318992.1595309920.; _gscs_233472779=95309920egysme60|pv:58",
+    "Cookie":"JSESSIONID=3D819D39B7C495E8592BABBE8CC0928A; _gscu_233472779=95309920yykgtc60; zg_did=%7B%22did%22%3A%20%2217370c976e5662-0d3f3ecc7a2fcf-396f7500-13c680-17370c976e6afc%22%7D; zg_63df7be07da847be8e46cf4ae33c7c40=%7B%22sid%22%3A%201595414069856%2C%22updated%22%3A%201595414069856%2C%22info%22%3A%201595325118190%2C%22superProperty%22%3A%20%22%7B%7D%22%2C%22platform%22%3A%20%22%7B%7D%22%2C%22utm%22%3A%20%22%7B%7D%22%2C%22referrerDomain%22%3A%20%22open.iot.10086.cn%22%2C%22landHref%22%3A%20%22https%3A%2F%2Fopen.iot.10086.cn%2Fproductservice%2Fonenetdevboard%2F%22%7D; BIGipServerpool_vmportal_3333=!wnQwUMA1w2sNY4/TYvoIeOVXnuYeKwCiAccYOXghkuBuvJQhcMO2n0fd3SA9veV14HoHOJBVGQjH; BIGipServerpool_vmconsoleonest_8443=!dH7c4QslzJupqBfTYvoIeOVXnuYeKzBgZHter8MKF12EhwqIsI39OIIQCOKikZyslbhGibJAw1FMKWI=; BIGipServerpool_vmportalssl_8443=!/DOPsDY9eJBonALTYvoIeOVXnuYeKzVfuybNwPW8w8W4Nbp2+Sam9VFbCdVFclmrxSx8ZCcOdIWKsQ==; BIGipServerpool_vmportalsso_8443=!fJq5V8pXqf9YfCHTYvoIeOVXnuYeK3x94pw86b82FnhgkAk6kpAuBLMdvPN3i4Nbg6RCLcnp0Ei6Lw==; BIGipServerpool_vmapigateway=!JbH7DL/lFZ7h6GHTYvoIeOVXnuYeK2w7Prg5QazWj4r08Yxy/CBIC+Gb5Bc6Ba/nWm5Ix1mgoW4TQbs=; BIGipServerpool_vmconsolenj_8443=!PIbO+8dELszf9nzTYvoIeOVXnuYeKzCNj7uzTvKa/iinBT6/b9srpnDa60JdvbYmqYETPtf8IJUKvA==; _gscbrs_233472779=1; ipLoc-djd=47259c2b-20b2-464c-be16-1aeecb6c93d8; _pk_id.1.663d=a284326ba2c4e88a.1595309920.8.1595840801.1595840801.; BIGipServerpool_piwik_8001=!7QRYJfMqLfkeiAjTYvoIeOVXnuYeK8CUSAmWI1VJ+XXmoKirag+5Q6B2m36/pe37xSYl5/8kU2mlIg==; WT_FPC=id=2f6a775c86742392fb51595311349982:lv=1595840802147:ss=1595840802147; OBS_SID=Set2; BIGipServerpools_op_infocenter_static_5009=!GULdofNJD8TWIHDTYvoIeOVXnuYeK7hyPLAFYuIKNjriWSEqV+2rLVuOzDfaYcwQnHH/9NuR/zP0yDU=; BIGipServerpool_vipconsole_static_5009=!/CPhneJFHB8nC2zTYvoIeOVXnuYeK4T1lB4KWLizhrsu6ge1EuvnUN+Kq0JOu+gWAb3YHj7I5pVA1QE=; _gscs_233472779=95839215t0mzaq14|pv:25; JSESSIONID=E459486067DDAE544016696EF1185818",
     "Connection": "keep-alive",
     "Sec-Fetch-Dest": "empty",
     "Sec-Fetch-Mode": "cors",
@@ -35,12 +35,12 @@ headers = {
 # url = "https://ecloud.10086.cn/product/buy/vm"
 # host = "https://"+ parse.urlparse(url).hostname
 # print(parse.urljoin(host,"/usercenter/dashboard"))
-# import re
-# def helper(ss):
-#     if re.match(r'javasc(r)?ipt',ss):
-#         print("OK")
-#     else:
-#         print("No")
+import re
+def helper(ss):
+    if re.match(r'^/',ss):
+        print("OK")
+    else:
+        print("No")
 # helper("javascript")
 # helper("javascipt")
 # helper("javascript:(0)")
@@ -82,18 +82,37 @@ import hashlib
 
 def read_file(filename):
     with open(filename) as f:
-        return f.read().encode("utf-8")
+        return f.readlines()
+def write_file(filename,strings):
+    with open(filename,"w") as f:
+        f.write(strings)
 
-resp = requests.get("https://ecloud.10086.cn/home/solution/common/safety",headers=headers,verify=False)
-print(resp)
+# resp1 = requests.get("https://cloud-a.cmecloud.cn/product/product-intro.html?name=dns",headers=headers,verify=False)
+# print(resp1.text)
+#
+# resp2 = requests.get("https://ecloud.10086.cn/home/solution/common/safety",headers=headers,verify=False)
+# write_file("resp2.txt",resp2.text)
+
 # print(resp.text)
 # resp2 = requests.get("https://ecloud.10086.cn/home/solution/common/safety",headers=headers,verify=False)
 # print("__________________________")
 # print(resp2.text)
 # # assert resp.text ==resp2.text
 # a = read_file("1.txt")
+# b = read_file("2.txt")
+# assert len(a) == len(b)
+# for line in range(len(a)):
+#     if set(a[line])-set(b[line]) !=set():
+#         print(line)
+#
+#
+# ll=["https:ww.njdaa.com"]
+# print(type(ll.pop(0)))
+    # print(set(a[line])-set(b[line]))
+    # print(a[line]-b[line])
 # assert a == resp.text
 # print(a)
 #
 # # a="asdfg".encode("utf-8")
 # print(hashlib.md5(a).hexdigest())
+

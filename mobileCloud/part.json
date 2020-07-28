@@ -1,6 +1,0 @@
-[{"url": "https://ecloud.10086.cn/home/", "status_code": 200, "response_time": 0.420888, "condition": "\u6b63\u5e38"},
-{"url": "https://ecloud.10086.cn/op-help-center", "status_code": 200, "response_time": 0.14691, "condition": "\u6b63\u5e38"},
-{"url": "https://ecloud.10086.cn/op-console-global/subsystem?type=infocenter", "status_code": 200, "response_time": 0.187112, "condition": "\u6b63\u5e38"},
-{"url": "https://ecloud.10086.cn/op-console-global/dashboard", "status_code": 200, "response_time": 0.236101, "condition": "\u6b63\u5e38"},
-{"url": "https://ecloud.10086.cn/user/goRegister", "status_code": 200, "response_time": 0.179408, "condition": "\u6b63\u5e38"},
-{"url": "https://ecloud.10086.cn/market/all", "status_code": 200, "response_time": 0.154097, "condition": "\u6b63\u5e38"}]

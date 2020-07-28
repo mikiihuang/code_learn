@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e31d308-9218-4190-9540-bd7bb600a8be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mobileCloud/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/crawl_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/getCaptcha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/log_part.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud4copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud5_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileCloud/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_dangrui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unittest_learn/testmodel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logpic.py" beforeDir="false" afterPath="$PROJECT_DIR$/logpic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mobileCloud/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mobileCloud/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson2.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobileCloud/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,28 +14,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="codelearn" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobileCloud/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-241">
-              <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
+            <state relative-caret-position="-2202">
+              <caret line="21" column="1181" selection-start-line="21" selection-start-column="1181" selection-end-line="21" selection-end-column="1181" />
               <folding>
-                <element signature="e#85#94#0" expanded="true" />
+                <element signature="e#68#83#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobileCloud/test.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson3.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="66" column="36" lean-forward="true" selection-start-line="59" selection-end-line="66" selection-end-column="36" />
-              <folding>
-                <element signature="e#68#83#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-3162" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mobileCloud/resp1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="10" column="1456" selection-start-line="10" selection-start-column="1452" selection-end-line="10" selection-end-column="1456" />
             </state>
           </provider>
         </entry>
@@ -62,36 +58,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>https://ecloud.10086.cn/home/product-introduction/bs</find>
-      <find>/usercenter/dashboard</find>
-      <find>base</find>
-      <find>www.zjcloud.com/</find>
-      <find>product-introduction/vm</find>
-      <find>support/health</find>
-      <find>home/product-introduction/ironic</find>
-      <find>solution/medical/area</find>
-      <find>solution/medical/database</find>
-      <find>product-introduction/cloudDesk</find>
-      <find>solution/edu/library</find>
-      <find>code=9207455&amp;fromtype=morelist&amp;appid=2008</find>
-      <find>fromtype=morelist&amp;appid=1600</find>
-      <find>9207548&amp;fromtype=morelist&amp;appid=2452</find>
-      <find>1026?parentid=1032&amp;level=2</find>
-      <find>about/privacy</find>
-      <find>9207328</find>
-      <find>404</find>
-      <find>javascript</find>
-      <find>product-introduction/webgood</find>
-      <find>product-introduction/ddos</find>
-      <find>product-introduction/transcode</find>
-      <find>/home/about/contact</find>
-      <find>common/safety</find>
-      <find>duct-introduction/transco</find>
-      <find>86.cn/home/solution/common/devops</find>
-      <find>cn/home/</find>
+      <find>op-help-center'</find>
+      <find>https://ecloud.10086.cn/home/solution/industry/energy</find>
+      <find>home/product-introduction/cdn</find>
       <find>op-console-global/dashboard</find>
-      <find>MyEncoder</find>
-      <find>op-help-center</find>
+      <find>product-introduction/codedep</find>
+      <find>product-introduction/hymirror</find>
+      <find>solution/industry/intelligence</find>
+      <find>https://ecloud.10086.cn/home/product-introduction/vm'</find>
+      <find>/home/product-introduction/qos</find>
+      <find>86.cn/home/product-introduction/cdn'</find>
+      <find>0086.cn/op-help-center</find>
+      <find>ecloud.10086.cn/op-help-center/'</find>
+      <find>cn/op-help-center</find>
+      <find>cn/op-help-center/</find>
+      <find>https://ecloud.10086.cn/op-help-center</find>
+      <find>solution/farm/village</find>
+      <find>10086.cn/op-help-center</find>
+      <find>save_json</find>
+      <find>86.cn/op-help-center/'</find>
+      <find>.cn/home/about/introduction</find>
+      <find>inter</find>
+      <find>op-console-global/dashboard'</find>
+      <find>product-introduction/gpu</find>
+      <find>ical/area</find>
+      <find>Web全栈防护</find>
+      <find>product-introduction/vm</find>
+      <find>移动云.A</find>
+      <find>移动云.</find>
+      <find>op-console-globa</find>
+      <find>save</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -100,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tongyici_baike.py" />
-        <option value="$PROJECT_DIR$/tubatu/tubatu/spiders/tubatu_test.py" />
         <option value="$PROJECT_DIR$/tencent/tencent/spiders/tencent_hire.py" />
         <option value="$PROJECT_DIR$/tubatu/tubatu/items.py" />
         <option value="$PROJECT_DIR$/tubatu/tubatu/settings.py" />
@@ -148,15 +142,17 @@
         <option value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/24931e4a33672b8f81871a1bf3889b6c/Message/MessageTemp/a32ec4f638ea44a42ee0edfd46ae37e9/OpenData/mobileCloud4.py" />
         <option value="$PROJECT_DIR$/mobileCloud/3.txt" />
         <option value="$PROJECT_DIR$/mobileCloud/1.txt" />
+        <option value="$PROJECT_DIR$/mobileCloud/interruptData.json" />
         <option value="$PROJECT_DIR$/mobileCloud/2.txt" />
         <option value="$PROJECT_DIR$/mobileCloud/test.py" />
+        <option value="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson2.py" />
         <option value="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="74" />
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="54" />
+    <option name="y" value="24" />
     <option name="width" value="1440" />
     <option name="height" value="804" />
   </component>
@@ -201,17 +197,17 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mobileCloud" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/glidedsk_test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mobileCloud" />
       <recent name="$PROJECT_DIR$/unittest_learn" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/politicNews/politicNews/spiders" />
       <recent name="$PROJECT_DIR$/tencent/tencent/spiders" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mobileCloud" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/glidedsk_test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,15 +269,12 @@
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mobileCloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson2.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mobileCloud4copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mobileCloud_outputJson" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codelearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,7 +295,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobileCloud/mobileCloud4copy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,13 +325,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.mobileCloud4" />
+      <item itemvalue="Python.mobileCloud4 (1)" />
+      <item itemvalue="Python.mobileCloud4 (2)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.mobileCloud_outputJson" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.mobileCloud4" />
+        <item itemvalue="Python.mobileCloud_outputJson" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.mobileCloud4 (2)" />
         <item itemvalue="Python.mobileCloud4 (1)" />
-        <item itemvalue="Python.mobileCloud4copy" />
       </list>
     </recent_temporary>
   </component>
@@ -384,24 +384,33 @@
       <configuration name="pytest in testmodel.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="804" extended-state="6" />
+    <frame x="54" y="24" width="1440" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21353066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985955" visible="true" weight="0.21353066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5014045" side_tool="true" weight="0.21353066" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13483146" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25702247" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36235955" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2991573" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42696628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35674158" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286517" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35674158" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286517" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32162923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -429,21 +438,52 @@
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="crawled_queue" language="Python" />
-        <watch expression="crawl_queue" language="Python" />
         <watch expression="url" language="Python" />
+        <watch expression="base" language="Python" />
+        <watch expression="final_result" language="Python" />
+        <watch expression="len(set(links))" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>crawled_queue</expression-string>
+        <expression-string>base</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(set(links))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>final_result</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(crawl_queue)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
         <expression-string>crawl_queue</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(set(crawl_queue))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>set(crawl_queue)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>crawled_queue</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -462,45 +502,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/renren/renren/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren/renren/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren/renren/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1206" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/glidedsk_test/crawler_basic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="e#68#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren/renren/spiders/renren_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="29" column="508" selection-start-line="29" selection-start-column="508" selection-end-line="29" selection-end-column="508" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/glidedsk_test/html/2.html" />
     <entry file="file://$PROJECT_DIR$/glidedsk_test/html/1.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -733,45 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobileCloud/final.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobileCloud/dataAll.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="2361" column="54" selection-start-line="2361" selection-start-column="35" selection-end-line="2361" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobileCloud/3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
           <caret line="405" lean-forward="true" selection-start-line="405" selection-end-line="405" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobileCloud/interruptData.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobileCloud/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="10" column="1452" lean-forward="true" selection-start-line="10" selection-start-column="1452" selection-end-line="10" selection-end-column="1461" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobileCloud/2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="10" column="1460" lean-forward="true" selection-start-line="10" selection-start-column="1460" selection-end-line="10" selection-end-column="1460" />
         </state>
       </provider>
     </entry>
@@ -799,24 +765,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/final.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="4" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="435" selection-start-line="435" selection-end-line="435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/resp2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="10" column="2451" lean-forward="true" selection-start-line="10" selection-start-column="2451" selection-end-line="10" selection-end-column="2451" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/resp1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="10" column="1456" selection-start-line="10" selection-start-column="1452" selection-end-line="10" selection-end-column="1456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="33" column="1446" lean-forward="true" selection-start-line="33" selection-start-column="1446" selection-end-line="33" selection-end-column="1446" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/errorURL.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/interruptData.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/dataAll.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="208" column="26" lean-forward="true" selection-start-line="208" selection-start-column="26" selection-end-line="208" selection-end-column="26" />
+          <folding>
+            <element signature="e#85#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mobileCloud/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="66" column="36" lean-forward="true" selection-start-line="59" selection-end-line="66" selection-end-column="36" />
+        <state relative-caret-position="-2202">
+          <caret line="21" column="1181" selection-start-line="21" selection-start-column="1181" selection-end-line="21" selection-end-column="1181" />
           <folding>
             <element signature="e#68#83#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson.py">
+    <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson3.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
-          <folding>
-            <element signature="e#85#94#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-3162" />
       </provider>
     </entry>
   </component>
