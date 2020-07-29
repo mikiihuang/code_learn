@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e31d308-9218-4190-9540-bd7bb600a8be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flask_learn/decorator_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_learn/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_learn/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_learn/url_for_learn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson3.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson3.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobileCloud/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobileCloud/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/crawl_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/dataAll.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/dataInterrupt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/getCaptcha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/log_part.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/mobileCloud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/mobileCloud3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson3.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobileCloud/xh_url.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,35 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flask_learn/url_for_learn.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="341">
               <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson3.0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
-              <folding>
-                <element signature="e#85#94#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobileCloud/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="121" column="35" lean-forward="true" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="35" />
-              <folding>
-                <element signature="e#68#83#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -204,16 +182,6 @@
             <path>
               <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="codelearn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codelearn" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codelearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codelearn" type="462c0819:PsiDirectoryNode" />
-              <item name="mobileCloud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -423,21 +391,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="119" y="33" width="1492" height="803" extended-state="0" />
-    <editor active="true" />
+    <frame x="14" y="40" width="1492" height="803" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985955" visible="true" weight="0.20598233" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985955" visible="true" weight="0.20598233" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5014045" side_tool="true" weight="0.21353066" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13361463" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29817158" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39381152" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42696628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286517" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286517" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.042194095" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30520394" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32162923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -836,13 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flask_learn/url_for_learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mobileCloud/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -874,11 +834,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mobileCloud/mobileCloud_outputJson3.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+        <state relative-caret-position="95">
+          <caret line="132" column="44" lean-forward="true" selection-start-line="132" selection-start-column="44" selection-end-line="132" selection-end-column="44" />
           <folding>
             <element signature="e#85#94#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_learn/url_for_learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
