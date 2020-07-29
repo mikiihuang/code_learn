@@ -2,16 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>user's world</title>
+    <title>{{user}}'s movielist</title>
+    <link rel="icon" href="{{ url_for('static',filename='imgs/favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
 </head>
 <body>
     <h1> Welcome to my page! </h1>
+    <h2> <img alt="占位文本" id="avator" src="{{url_for('static',filename='imgs/avatar.png')}}">{{user}}'s Movielist Show</h2>
+    <p>{{ movies|length }} Titles</p>
     <ul>
-       {% for one in users %}
-        <li>name:{{one.name}}</li>
-        <li>age:{{one.age}}</li>
+       {% for movie in movies %}
+        <li>{{movie.title}} — {{movie.year}}</li>
         {% endfor %}
     </ul>
+    <footer>
+        <p><img alt="totoro" src="{{url_for('static',filename='imgs/totoro.gif')}}"></p>
+        <small>&copy;2020<a href="https://github.com/mikiihuang">Yumi</a> </small>
+    </footer>
 
 </body>
 </html>
