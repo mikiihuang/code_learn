@@ -14,6 +14,13 @@ from urllib import parse
 import json
 import signal
 import hashlib
+import os
+
+BASEDIR = os.path.dirname(os.path.abspath(__file__))
+ALL_DATA = os.path.join(BASEDIR,"dataAll.json")
+INTERRUPT_DATA = os.path.join(BASEDIR,"dataInterrupt.json")
+SEEDURL = "https://ecloud.10086.cn/home/"
+
 
 user_agent_list = [
         "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36",
@@ -40,6 +47,9 @@ headers = {
         # "X-Requested-With": "XMLHttpRequest"
 
     }
+
+
+
 def getHtml(url):
     #获取当前网址的域名
     base_url = "https://" + parse.urlparse(url).hostname
@@ -90,23 +100,18 @@ def verify_url(url):
     try:
         resp = requests.get(url,headers=headers,verify=False)
         md5_hash = hashlib.md5(resp.text.encode("utf-8")).hexdigest()
+        time_now = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
         # print(hashlib.md5(resp.text.encode("utf-8")).hexdigest())
-        return resp.status_code,resp.elapsed.total_seconds(),md5_hash
+        return resp.status_code,resp.elapsed.total_seconds(),md5_hash,time_now
     except:
         pass
-
-# class MyEncoder(json.JSONEncoder):
-#     def default(self, obj):
-#         if isinstance(obj, bytes):
-#             return str(obj, encoding='utf-8');
-#         return json.JSONEncoder.default(self, obj)
 
 
 def Myhandler(signalnum, handler):
     global is_sigint_up
     is_sigint_up = True
     print("中断了!!")
-    save_json(final_result, "interruptData.json")
+    save_json(final_result, INTERRUPT_DATA)
     # exit()
 
 
@@ -114,14 +119,9 @@ def CrawlInfo(url):
 
     # crawl_queue = []  # 声明待爬队列:当前页面有哪些url
     hlinks = []
-
     base,html = getHtml(url)
-    # print(html)
-    # print(base)
     links = get_urls(html)
-    # print(len(links))
     print(links)
-    # print(len(set(links)))
 
     global final_result
 
@@ -154,7 +154,7 @@ def CrawlInfo(url):
                 hlinks.append(murl)
                 #处理verify_url方法走except异常分支返回为None的bug
                 try:
-                    murl_result["status_code"],murl_result["response_time"],murl_result["hash"] = verify_url(murl)
+                    murl_result["status_code"],murl_result["response_time"],murl_result["hash"],murl_result["time"] = verify_url(murl)
                     time.sleep(random.random() * 3)
                 except:
                     murl_result["status_code"], murl_result["response_time"]="",""
@@ -165,12 +165,7 @@ def CrawlInfo(url):
                     pass
                 print(murl_result)
                 final_result.append(murl_result)
-                # print(final_result)
-                # murl_result=json.dumps(murl_result)
-                # save_json(murl_result,"part.json")
-                # log = murl +"   " +str(verify_url(murl))
-                # print(log)
-                # save_file(log,"3.txt")
+
             else:
                 time.sleep(random.random() * 3)
                 continue
@@ -195,30 +190,24 @@ if __name__ == "__main__":
     global crawl_queue  #待爬的
     crawl_queue = []
     final_result = []
-    seedUrl = "https://ecloud.10086.cn/home/"
+    seedUrl = SEEDURL
 
     CrawlInfo(seedUrl)
 
     crawled_queue.append(seedUrl)
 
-    # result_list = []
-    # 抓取队列中的信息为空，则退出循环
 
+    while crawl_queue:
+        url = crawl_queue.pop(0)
+        print(url)
+        global is_sigint_up
+        if not is_sigint_up:
+            CrawlInfo(url)
+        else:
+            break
+        crawl_queue = list(set(crawl_queue))
+        crawled_queue.append(url)
+    save_json(final_result,ALL_DATA)
 
-    try:
-        while crawl_queue:
-            url = crawl_queue.pop(0)
-            print(url)
-            global is_sigint_up
-            if not is_sigint_up:
-                CrawlInfo(url)
-            else:
-                break
-            crawl_queue = list(set(crawl_queue))
-            crawled_queue.append(url)
-        save_json(final_result,"dataAll.json")
-    except:
-        save_json(final_result,"dataBreak.json")
-        pass
 
 

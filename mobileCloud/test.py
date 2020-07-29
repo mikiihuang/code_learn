@@ -116,3 +116,9 @@ def write_file(filename,strings):
 # # a="asdfg".encode("utf-8")
 # print(hashlib.md5(a).hexdigest())
 
+import os
+# print(os.getcwd())
+base = os.path.dirname(os.path.abspath(__file__))
+dir = os.path.join(base,"all.json")
+print(dir)
+# BASEDIR = os.getcwd()
