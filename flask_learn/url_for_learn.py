@@ -18,6 +18,7 @@ def test():
     print(url_for('hello'))
     print(url_for('get_name',name="yumi"))
     print(url_for('test'))
+    return "Test page"
 
 if __name__ == '__main__':
     app.run(debug=True)
